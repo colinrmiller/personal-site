@@ -445,6 +445,12 @@ a img.aligncenter {
     opacity: 1;
 }
 
+
+.about__img--container {
+    max-width: 253px;
+    margin: auto;
+}
+
 /* -------------------------------- 
 
 xclip 
